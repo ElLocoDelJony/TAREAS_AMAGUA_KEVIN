@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// COMENTARIO CREADO PARA ACTUALIZAR
 public class ejercicio3 {
     public static void main(String[] args){
         Scanner datos = new Scanner(System.in);
